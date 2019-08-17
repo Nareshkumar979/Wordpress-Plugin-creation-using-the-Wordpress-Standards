@@ -4,7 +4,7 @@
 
 Plugin Name: Destination Category
 
-Plugin URI: http://iclienttech.com
+Plugin URI: http://sdkattech.com
 
 Description: This plugin is used for the creation of the Custom Category for the Wordpress Destination Post type and it allows you to link the Category and the Sub Category using this plugin.
 
@@ -12,7 +12,7 @@ Version: 1.0
 
 Author: Naresh Kumar.P
 
-Author URI: http://www.iclienttech.com
+Author URI: http://sdkattech.com
 
 License: NKPDC007
 
